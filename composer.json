@@ -1,0 +1,17 @@
+{
+  "name": "bszyk/advanced-access-for-learndash",
+  "description": "Advanced Access for Learndash WordPress plugin",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Brian Siklinski",
+      "email": "bszyk.codes@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "BSZYK_ADV_ACC\\": "includes/"
+    }
+  }
+}

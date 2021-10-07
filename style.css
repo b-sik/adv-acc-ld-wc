@@ -1,0 +1,36 @@
+/* this is a semi-hacky way to get the 'days, weeks, months, years' dropdown to be next to the related number input */
+#learndash-course-access-settings_exp_after_event_length_field {
+  display: inline-block;
+  width: 375px;
+}
+
+#learndash-course-access-settings_exp_after_event_length_field
+  .sfwd_option_label {
+  width: 100%;
+}
+
+#learndash-course-access-settings_exp_after_event_length_field
+  .sfwd_option_input {
+  width: 50px;
+  min-width: 50px;
+}
+
+#learndash-course-access-settings_exp_after_event_length__type_field
+  .sfwd_option_div
+  .ld-select {
+  width: 200px;
+}
+
+#learndash-course-access-settings_exp_after_event_length__type_field {
+  display: inline-block;
+  width: 200px;
+  border: 0px;
+  padding: 0px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+#learndash-course-access-settings_exp_after_event_length__type_field
+  .sfwd_option_label {
+  display: none;
+}

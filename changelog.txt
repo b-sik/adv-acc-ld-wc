@@ -1,0 +1,8 @@
+= 0.2.0 =
+* Main features updated, security fixes, stylesheet added, changelog added
+
+= 0.2.1 =
+* Nonce fix
+
+= 0.3.0 =
+* Update naming convention

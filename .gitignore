@@ -1,0 +1,14 @@
+# ignore node dependency directories
+node_modules/
+vendor/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# macOS system files
+.DS_Store
+
+includes/Utilities.php
+_zip/
