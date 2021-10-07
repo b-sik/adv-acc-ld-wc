@@ -1,6 +1,6 @@
 <?php //phpcs:ignore
 /**
- * Advanced Access plugin for LearnDash LMS
+ * Customize, set, sell, and limit course access for Learndash.
  *
  * @package BSZYK_ADV_ACC
  *

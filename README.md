@@ -1,7 +1,7 @@
 # Advanced Course Access for Learndash
 v0.3.0
 
-Customize, set, and limit course access for Learndash.
+Customize, set, sell, and limit course access for Learndash.
 
 ### Install
 `composer install`
